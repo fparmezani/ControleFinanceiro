@@ -21,5 +21,5 @@ Sample preview running the app:
 
 ![Preview] 
 <hr/>
-<img src="https://raw.githubusercontent.com/gist/fparmezani/47322129bb13711c45832f87d8e9c97d/raw/cb84426a4ee98b3e57de188a35d9b50ef0964596/controle_financeiro.svg">
+<img src="https://raw.githubusercontent.com/gist/fparmezani/a45023369b5068a625c2dda6cca52c6d/raw/f731e34490996e18b643aa35cb2a7d12481b0721/controle_financeiro.svg">
 
