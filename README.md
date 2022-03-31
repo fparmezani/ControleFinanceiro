@@ -19,6 +19,7 @@
 
 Sample preview running the app:
 
-![Preview]
+![Preview] 
+<hr/>
 <img src="https://raw.githubusercontent.com/gist/fparmezani/47322129bb13711c45832f87d8e9c97d/raw/cb84426a4ee98b3e57de188a35d9b50ef0964596/controle_financeiro.svg">
 
