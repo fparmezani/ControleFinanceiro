@@ -1,4 +1,4 @@
-<h1 align="center">Controle Financeiro</h1>
+<h1 align="center">Controle Financeiro (Financial Control)</h1>
 <p align="center">A small financial control app for testing html, css, typescryt, react and localstorage.</p>
 
 <h3 align="center">
