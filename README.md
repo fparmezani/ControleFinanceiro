@@ -1,4 +1,4 @@
-<h1 align="center">Mini Video Me</h1>
+<h1 align="center">Controle Financeiro</h1>
 <p align="center">A small webcam player focused on providing an easy way to add and control your webcam during recordings.</p>
 
 <h3 align="center">
