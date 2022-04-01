@@ -1,12 +1,11 @@
 <h1 align="center">Controle Financeiro (Financial Control)</h1>
 <p align="center">A small financial control app for testing html, css, typescryt, react and localstorage.</p>
-
 <h3 align="center">
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/fparmezani" target="_blank">
-    <img alt="Twitter: fparmezani" src="https://img.shields.io/twitter/follow/fparmezani.svg?style=social" />
+  <a href="https://twitter.com/nandoparmezani" target="_blank">
+    <img alt="Twitter: nandoparmezani" src="https://img.shields.io/twitter/follow/nandoparmezani.svg?style=social" />
   </a>
 </h3>
 
