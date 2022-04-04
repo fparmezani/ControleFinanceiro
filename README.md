@@ -31,9 +31,6 @@ Financial Control is a full stack web and mobile application built for project p
 ![Web 1](https://raw.githubusercontent.com/gist/fparmezani/a45023369b5068a625c2dda6cca52c6d/raw/f731e34490996e18b643aa35cb2a7d12481b0721/controle_financeiro.svg)
 
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
 # Tecnologias utilizadas
 ## Back end
 - LocalStorage
