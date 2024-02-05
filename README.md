@@ -13,6 +13,8 @@
 
 ## Preview
 
+<img src="/images/Group1.png">
+
 Sample preview running the app:
 <hr/>
 <img src="https://raw.githubusercontent.com/gist/fparmezani/a45023369b5068a625c2dda6cca52c6d/raw/f731e34490996e18b643aa35cb2a7d12481b0721/controle_financeiro.svg">
